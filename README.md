@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## Important section
 
 Very importan points will appear here.
+
+## Copyright
+
+just demoing
