@@ -12,7 +12,7 @@ As stated in the section above, this section is a filler section as well.
 
 ## Purpose
 
-Sample website with plenty of files for demos. Adding a line for feature-purposes
+Sample website with plenty of files for demos. Adding a line for feature-purposes, mor changes to create something commit-worthy.
 
 ## Important section
 
