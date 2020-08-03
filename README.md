@@ -16,7 +16,11 @@ Sample website with plenty of files for demos
 
 ## Important section
 
-Very importan points will appear here.
+Very important points will appear here.
+
+## Some more info
+
+Just more filler text.
 
 ## Copyright
 
