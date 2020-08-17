@@ -24,4 +24,4 @@ Just more filler text.
 
 ## Copyright
 
-just demoing
+(c) 2020 Me. All rights reserved.
