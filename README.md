@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Some more text to modify
 
 ## Section 1 
 
-These sections are just filler sections without any real purpose.
+These sections are just filler sections without any real purpose. Yeah, some stuff.
 
 ## Section 2
 
